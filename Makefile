@@ -1,2 +1,2 @@
 all:
-	g++ -Wall -o texpat texpat.cpp -I../src/ -std=c++11 -lpthread -lexpat
+	g++ -Wall -o texpat texpat.cc xmlparser.cc -std=c++11 -lpthread -lexpat
