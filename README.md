@@ -1,2 +1,2 @@
 # texpat
-Testing Expat library
+Testing Expat library C++ wrapper
